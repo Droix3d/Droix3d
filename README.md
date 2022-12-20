@@ -3,5 +3,5 @@
   <h3 align="center">$ Whoami > Omar / Droix3d 🐱‍💻</3>
  </p>
  
- <p align="center" <strong> Pentester Jr / EthicalHacking </strong> </p>
+ <p align="center" <strong> Pentester Jr / EthicalHacking / CTF player / RedTeam / Cryptography </strong> </p>
   
