@@ -24,7 +24,7 @@
  
  </p>
 
-### 💻 Technologies with i feel confortable...
+### 💻 Technologies with I feel confortable...
 
  </a>
 <a href="https://www.python.org/" tagret="blank" style="margin-rigth: 4px ">
