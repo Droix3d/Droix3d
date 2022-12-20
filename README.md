@@ -7,7 +7,7 @@
  
  <p align="center">
    <a href="https://www.instagram.com/omarv3_drx/" tagret="blank" style="margin-rigth: 4px ">
-     <img align="center" src="https://user-images.githubusercontent.com/109915316/208707183-89980b7a-caef-4d6a-bbfb-a175898ee0b3.png">
+     <img align="center" src="https://user-images.githubusercontent.com/109915316/208707429-5e3827e9-5a8f-423a-9ee5-3e2344b486a7.png" heigth= 28px width=28px>
     
   </a>
  </p>
