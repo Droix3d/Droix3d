@@ -13,7 +13,7 @@
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208708713-4206bf3e-1a24-4bc3-9e8b-34ce9c9feaed.png"heigth=50px width=50px>
     </a>
 <a href="https://app.hackthebox.com/users/806860" tagret="blank" style="margin-rigth: 4px ">
-     <img align="center" src="https://user-images.githubusercontent.com/109915316/208710703-5663407a-fae9-426e-a3d0-3c2268008cdc.jpg"heigth=100px width=100px>
+     <img align="center" src="https://user-images.githubusercontent.com/109915316/208710886-223b7995-d05e-4502-b79a-6dabdd25b41d.png"heigth=50px width=50px>
     </a>
 
 </p>
