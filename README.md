@@ -7,9 +7,12 @@
  
  <p align="center">
    <a href="https://www.instagram.com/omarv3_drx/" tagret="blank" style="margin-rigth: 4px ">
-     <img align="center" src="https://user-images.githubusercontent.com/109915316/208707429-5e3827e9-5a8f-423a-9ee5-3e2344b486a7.png"alt="OmarDroix"heigth=40px width=40px>
-    
-  </a>
- </p>
+     <img align="center" src="https://user-images.githubusercontent.com/109915316/208707429-5e3827e9-5a8f-423a-9ee5-3e2344b486a7.png"heigth=50px width=50px>
+    </a>
+<a href="https://www.linkedin.com/in/omar-velazquezc-91abb022a/" tagret="blank" style="margin-rigth: 4px ">
+     <img align="center" src="https://user-images.githubusercontent.com/109915316/208708713-4206bf3e-1a24-4bc3-9e8b-34ce9c9feaed.png"heigth=50px width=50px>
+    </a>
+
+</p>
       
   
