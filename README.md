@@ -18,4 +18,8 @@
 
 </p>
       
-  
+ ### 🐱‍👤 A little about me...
+ 
+ <p> I'am a <strong> proactive person </strong>
+ 
+ </p>
