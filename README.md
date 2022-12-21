@@ -40,7 +40,7 @@
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208717201-f15c643a-5b2c-4b62-870a-17a9f58cb23d.png"heigth=80px width=80px>
     </a>
   
-  <a href="Kali.org" tagret="blank" style="margin-rigth: 4px ">
+  <a href="https://www.kali.org/" tagret="blank" style="margin-rigth: 4px ">
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208700640-7d29b027-e6bd-443e-96c1-3703b4bdc321.png"heigth=120px width=120px>
     </a>
 
