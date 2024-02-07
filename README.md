@@ -65,4 +65,4 @@
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208720358-efe68ccb-5fe6-487e-831f-4215a9a55349.png"heigth=120px width=120px>
     </a>
 
-  <img align="right" width="1200" height="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
+  <img align="right" width="1200" height="400" src="https://i.pinimg.com/originals/9d/78/63/9d78639400b15a59eabedd557b746eee.gif">
