@@ -65,4 +65,4 @@
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208720358-efe68ccb-5fe6-487e-831f-4215a9a55349.png"heigth=120px width=120px>
     </a>
 
-  <img align="right" width="1200" height="400" src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif">
+  <img align="right" width="1200" height="400" src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif">
