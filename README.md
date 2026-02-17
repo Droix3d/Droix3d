@@ -69,4 +69,4 @@
 
   ### 📚 Certifications...
 
-  <img width="520" height="600" alt="16776782813666930824494918563079" src="https://github.com/user-attachments/assets/99af51cb-9592-47d9-9fdf-c255a5974b21" />
+  <img width="120" height="120" alt="16776782813666930824494918563079" src="https://github.com/user-attachments/assets/99af51cb-9592-47d9-9fdf-c255a5974b21" />
