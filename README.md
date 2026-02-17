@@ -1,5 +1,5 @@
 <p align="center" whidth="300">
-  <img align="center" width="200" src="https://user-images.githubusercontent.com/109915316/208697223-cda5ffc4-8d50-42a8-923e-72f490425e01.jpg"/>
+  <!-- <img align="center" width="200" src="https://user-images.githubusercontent.com/109915316/208697223-cda5ffc4-8d50-42a8-923e-72f490425e01.jpg"/> -->
   <h3 align="center">$ Whoami > Omar / Droix3d 🐱‍💻</3>
  </p>
  
@@ -20,11 +20,21 @@
       
  ### 🐱‍👤 A little about me...
  
- <p> I'am a <strong> proactive, autonomous, self-taught and eager to always learn more and teach. Passionate about offensive cybersecurity and I love difficult challenges like capture the flag style tests, student of computer engineering my big goal is to become a great ethical Hacker certified in Offensive security as OSCP. </strong> 
+ <p> I'am a <strong> I conduct offensive exercises aimed at assessing and enhancing the security of organizational infrastructures. My expertise lies in Command and Control (C2) development, malware evasion techniques, and OPSEC (Operational Security) practices. I possess strong knowledge in penetration testing, including methodologies based on OWASP, as well as the design and implementation of tactics, techniques, and procedures (TTPs). </strong> 
  
  </p>
 
-### 💻 Technologies with I feel confortable...
+ ### 📚 Certifications...
+
+  <img width="120" height="120" alt="16776782813666930824494918563079" src="https://github.com/user-attachments/assets/99af51cb-9592-47d9-9fdf-c255a5974b21" />
+
+  <img width="120" height="120" alt="1_O6wiKmh7EHTTM625pcQCmA" src="https://github.com/user-attachments/assets/8667c11e-d469-4a47-9b44-8f53b8bd5df1" />
+
+  <img width="120" height="120" alt="cert-stamp-crteamer-1" src="https://github.com/user-attachments/assets/d654916d-0359-473d-bfae-ddbffbcc7bb1" />
+  
+  <img width="120" height="120" alt="CEHPRACTICAL_5FB43496785F (1)" src="https://github.com/user-attachments/assets/5c42f162-4475-4ab7-a1ef-0a1e49940ec4" />
+
+<!-- ### 💻 Technologies with I feel confortable...
 
  </a>
 <a href="https://www.python.org/" tagret="blank" style="margin-rigth: 4px ">
@@ -47,6 +57,7 @@
 
 ### 📚 I'm currently learning...
 
+
 </a>
 <a href="" tagret="blank" style="margin-rigth: 4px ">
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208719672-756e4e5c-3ea3-4114-beac-eda6163e5257.png"heigth=80px width=80px>
@@ -63,10 +74,8 @@
     
   <a href="" tagret="blank" style="margin-rigth: 4px ">
      <img align="center" src="https://user-images.githubusercontent.com/109915316/208720358-efe68ccb-5fe6-487e-831f-4215a9a55349.png"heigth=120px width=120px>
-    </a>
+    </a> -->
 
-  <img align="right" width="1200" height="400" src="https://i.pinimg.com/originals/9d/78/63/9d78639400b15a59eabedd557b746eee.gif">
+  <img align="right" width="1200" height="400" src="https://i.pinimg.com/originals/9d/78/63/9d78639400b15a59eabedd557b746eee.gif"> 
 
-  ### 📚 Certifications...
-
-  <img width="120" height="120" alt="16776782813666930824494918563079" src="https://github.com/user-attachments/assets/99af51cb-9592-47d9-9fdf-c255a5974b21" />
+  
