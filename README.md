@@ -3,7 +3,7 @@
   <h3 align="center">$ Whoami > Omar / Droix3d 🐱‍💻</3>
  </p>
  
- <p align="center" <strong> 📍 Pentester  / EthicalHacking / CTF player / RedTeam / Cryptography / Networks 📍 </strong> <br / >🔻 !These are my social networks 🔻 </p>
+ <p align="center" <strong> 📍 Red Team Operator | Malware Dev | CRTO | OSEP | CEH | CRTeamer | Offensive Cybersecurity 📍 </strong> <br / >🔻 !These are my social networks 🔻 </p>
  
  <p align="center">
    <a href="https://www.instagram.com/omarv3_drx/" tagret="blank" style="margin-rigth: 4px ">
