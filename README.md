@@ -66,3 +66,7 @@
     </a>
 
   <img align="right" width="1200" height="400" src="https://i.pinimg.com/originals/9d/78/63/9d78639400b15a59eabedd557b746eee.gif">
+
+  ### 📚 Certifications...
+
+  <img width="520" height="600" alt="16776782813666930824494918563079" src="https://github.com/user-attachments/assets/99af51cb-9592-47d9-9fdf-c255a5974b21" />
